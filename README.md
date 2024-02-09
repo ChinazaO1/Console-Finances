@@ -24,3 +24,6 @@ This project provides a simple JavaScript code for financial analysis using data
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/ChinazaO1/Console-Finances.git
+
+   #License
+   MIT license
